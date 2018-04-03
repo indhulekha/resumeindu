@@ -1,0 +1,22 @@
+{
+"career":{
+            "info":"to pursue a challenging career."
+        },
+        "education":[
+          {
+            "degree":"ssc",
+            "school":"yasoda",
+            "data":["2013","90%"]
+          },
+          {
+            "degree":"INTERMIDIATE",
+            "school":"SRI CHAITANYA",
+            "data":["2015","80%"]
+          },
+          {
+            "degree":"BTECH",
+            "school":"SVEC",
+            "data":["2019","70%"]
+          }
+    ]
+}
