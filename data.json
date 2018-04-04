@@ -4,19 +4,37 @@
         },
         "education":[
           {
-            "degree":"ssc",
+            "degree":"SSC",
             "school":"yasoda",
             "data":["2013","90%"]
           },
           {
             "degree":"INTERMIDIATE",
-            "school":"SRI CHAITANYA",
+            "school":"sri chaiytanya",
             "data":["2015","80%"]
           },
           {
             "degree":"BTECH",
-            "school":"SVEC",
+            "school":"svec",
             "data":["2019","70%"]
           }
-    ]
+    ],
+    "skills":[
+            {
+              "name":"operating system",
+              "info":["windows","Fedora","ubuntu"]
+            },
+            {
+              "name":"Languages",
+              "info":["c","java","c++"]
+            },
+            {
+                "name":"Databases",
+                "info":["MySql"]
+            },
+            {
+                "name":"Web Technologies",
+                "info":["HTML","CSS","PHP"]
+            }
+          ]
 }
